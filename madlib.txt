@@ -1,12 +1,11 @@
 Replace words in bracket with the appropriate word or phrase. When you're done choose any line to randomly delete.
 
-[Your Name]
+[Josh]
 
-I walk through the color jungle. I take out my [adjective] canteen.
-There's a [adjective] parrot with a [adjective] [noun] in his mouth right in front of me in the [adjective] trees! I gaze at his [adjective] [noun].
+There's a [colorful] parrot with a [yellow] [bannana] in his mouth right in front of me in the [back] trees! I gaze at his [adjective] [noun].
 A sudden sound awakes me from my daydream!
-A panther [verb] in front of my head! I [verb] his [adjective] breath.
-I remember I have a packet of [noun] that makes go into a deep slumber!
-I [verb] it away in front of the [noun].
-Yes he's eating it! I [verb] away through the [adjective] jungle. I meet my parents at the tent.
+A panther [runs] in front of my head! I [verb] his [adjective] breath.
+I remember I have a packet of [candy] that makes go into a deep slumber!
+I [throw] it away in front of the [panther].
+Yes he's eating it! I [run] away through the [colorful] jungle. I meet my parents at the tent.
 Phew; It’s been an exciting day in the jungle. 
